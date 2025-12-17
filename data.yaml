@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Dataset_Sampah 
+
+train: images/train
+val: images/val
+
+nc: 4
+names: ['dirt', 'liquid', 'marks', 'trash']
